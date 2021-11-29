@@ -1,0 +1,35 @@
+.container {
+  margin-top: 30px;
+}
+
+.add-produto {
+  margin-bottom: 30px;
+}
+
+.list-produto {
+  margin-bottom: 50px;
+}
+
+.btn-add-prod {
+  margin-right: 10px;
+}
+
+.estoniah1{
+  font-size: 50px;
+}
+
+.estoniah2{
+  font-size: 35px;
+}
+
+.estoniaBtn{
+  font-size: 20px;
+}
+
+.estoniaPlace{
+  font-size: 25px;
+}
+.btn-rounded{
+  border-radius: 50%;
+  height: 48px;
+}
